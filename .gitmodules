@@ -1,0 +1,18 @@
+[submodule "carbontrack-backend"]
+	path = carbontrack-backend
+	url = git@github.com:akirachix/carbontrack-backend.git
+[submodule "carbontrack-frontend"]
+	path = carbontrack-frontend
+	url = git@github.com:akirachix/carbontrack-frontend.git
+[submodule "carbontrack-informational-website"]
+	path = carbontrack-informational-website
+	url = git@github.com:akirachix/carbontrack-informational-website.git
+[submodule "jegnit-backend"]
+	path = jegnit-backend
+	url = git@github.com:akirachix/jegnit-backend.git
+[submodule "jegnit-frontend"]
+	path = jegnit-frontend
+	url = git@github.com:akirachix/jegnit-frontend.git
+[submodule "jegnit-informational"]
+	path = jegnit-informational
+	url = git@github.com:akirachix/jegnit-informational.git
